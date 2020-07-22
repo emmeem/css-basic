@@ -43,7 +43,7 @@ p {
 }
 
 p:first-line {
-    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .image {
